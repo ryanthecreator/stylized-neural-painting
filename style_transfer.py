@@ -25,8 +25,8 @@ command = [
     "--max_m_strokes", "500",
     "--m_grid", "5",
     "--renderer", "oilpaintbrush",
-    "--renderer_checkpoint_dir", "checkpoints_G_oilpaintbrush",
-    "--net_G", "zou-fusion-net",
+    "--renderer_checkpoint_dir", "checkpoints_G_oilpaintbrush_light",
+    "--net_G", "zou-fusion-net-light",
     "--output_dir", "./output"
 ]
 
