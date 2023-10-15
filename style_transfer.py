@@ -23,7 +23,7 @@ command = [
     "--img_path", content_path,
     "--canvas_color", "white",
     "--max_m_strokes", "500",
-    "--m_grid", "5",
+    "--m_grid", "1",
     "--renderer", "oilpaintbrush",
     "--renderer_checkpoint_dir", "checkpoints_G_oilpaintbrush_light",
     "--net_G", "zou-fusion-net-light",
